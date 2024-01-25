@@ -1,1 +1,1 @@
-# hangman
+This is the code for a small project I did where I created a hangman game which could be played in the terminal. There are three different levels you can play: words - chooses a random word from a list of random words; animals - chooses a random word from a list of animals; english_cities - chooses a random word from a list of cities in England.
